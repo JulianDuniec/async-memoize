@@ -1,0 +1,22 @@
+{
+  "name": "callback-memoize",
+  "version": "0.0.1",
+  "dependencies": {
+  	"nodeunit"			: "*"
+  },
+  "scripts": {
+    "test": "nodeunit tests"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Julian Duniec <julian.duniec@gmail.com> (http://duniec.se/cv/)",
+  "description": "Memoize that handles async-functions",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JulianDuniec/micro-cache.git"
+  },
+  "main": "index.js"
+}

@@ -1,4 +1,4 @@
-async-memoize
+Async-Memoize
 =============
 
-Memoize that handles async-functions
+
